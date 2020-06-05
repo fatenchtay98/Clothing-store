@@ -1,0 +1,107 @@
+C:\Users\User\source\repos\TEST\bin\Debug\Database1.mdf
+C:\Users\User\source\repos\TEST\bin\Debug\Database1_log.ldf
+C:\Users\User\source\repos\TEST\bin\Debug\TEST.exe.config
+C:\Users\User\source\repos\TEST\bin\Debug\TEST.exe
+C:\Users\User\source\repos\TEST\bin\Debug\TEST.pdb
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.exe
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.pdb
+C:\Users\User\source\repos\TEST\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.LogInPage.resources
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.AdminPage.resources
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.MainPage.resources
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.NewProduct.resources
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.ManageUser.resources
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.ManageCategory.resources
+C:\Users\User\source\repos\TEST\obj\Debug\TEST.ManageProducts.resources
+C:\Users\User\Desktop\TEST\bin\Debug\Database1.mdf
+C:\Users\User\Desktop\TEST\bin\Debug\Database1_log.ldf
+C:\Users\User\Desktop\TEST\bin\Debug\TEST.exe.config
+C:\Users\User\Desktop\TEST\bin\Debug\TEST.exe
+C:\Users\User\Desktop\TEST\bin\Debug\TEST.pdb
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.LogInPage.resources
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.MainPage.resources
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.AdminPage.resources
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.ManageProducts.resources
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.ManageCategory.resources
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.NewProduct.resources
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.ManageUser.resources
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.exe
+C:\Users\User\Desktop\TEST\obj\Debug\TEST.pdb
+C:\Users\User\Desktop\New folder (2)\TEST\bin\Debug\TEST.exe.config
+C:\Users\User\Desktop\New folder (2)\TEST\bin\Debug\TEST.exe
+C:\Users\User\Desktop\New folder (2)\TEST\bin\Debug\TEST.pdb
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.LogInPage.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.AdminPage.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.ManageProducts.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.ManageCategory.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.NewProduct.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.ManageUser.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.exe
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.pdb
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.WomenProducts.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.HomePage.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.MenProducts.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.Accessories.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.Shoes.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.ManageOrder.resources
+C:\Users\User\Desktop\New folder (2)\TEST\obj\Debug\TEST.ContactUs.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\bin\Debug\TEST.exe.config
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\bin\Debug\TEST.exe
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\bin\Debug\TEST.pdb
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.Accessories.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.ContactUs.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.ManageOrder.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.MenProducts.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.Shoes.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.WomenProducts.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.HomePage.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.LogInPage.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.AdminPage.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.ManageProducts.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.ManageCategory.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.NewProduct.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.ManageUser.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.exe
+C:\Users\User\Desktop\Project\Project database - Oh lala application\TEST\obj\Debug\TEST.pdb
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\bin\Debug\TEST.exe.config
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\bin\Debug\TEST.exe
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\bin\Debug\TEST.pdb
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.Accessories.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.ContactUs.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.ManageOrder.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.MenProducts.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.Shoes.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.WomenProducts.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.HomePage.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.LogInPage.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.AdminPage.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.ManageProducts.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.ManageCategory.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.NewProduct.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.ManageUser.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.Properties.Resources.resources
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.csproj.CopyComplete
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.exe
+C:\Users\User\Desktop\Files\RHU\spring 18\database\database final project\Project database - Oh lala application\TEST\obj\Debug\TEST.pdb
